@@ -1,0 +1,6 @@
+{
+  "name": "Krishna College, Coimbatore",
+  "description": "Autonomous higher-education institution in Kuniamuthur, Coimbatore offering accredited undergraduate, postgraduate, and doctoral programmes in engineering, sciences, and management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
